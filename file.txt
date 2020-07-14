@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello.This is a file in master
+=======
+Hello.This file has many folders
+>>>>>>> feature

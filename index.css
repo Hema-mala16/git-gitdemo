@@ -1,4 +1,9 @@
 .myclass{
+<<<<<<< HEAD
     background-color: tomato;
 }
+=======
+    border:2px solid:yellow;
+    border-radius:10px;
+>>>>>>> feature
 }
